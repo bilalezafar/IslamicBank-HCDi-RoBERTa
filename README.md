@@ -138,7 +138,11 @@ classifier = pipeline(
 text = "The Bank provides regular training programmes to enhance employees' professional and Shariah-related competencies."
 
 predictions = classifier(text)
-print(predictions)
+
+best_prediction = max(predictions[0], key=lambda x: x["score"])
+
+print(f"Dimension: {best_prediction['label']} | Prediction score: {best_prediction['score']:.4f}")
+
 ```
 
 ## Suggested two-stage workflow
