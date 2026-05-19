@@ -1,0 +1,20 @@
+{
+  "label2id": {
+    "Not related": 0,
+    "Diversity, Equity, and Inclusion": 1,
+    "Compensation and Benefits": 2,
+    "Labour Relations and Organisational Culture": 3,
+    "Health, Safety, and Well-being": 4,
+    "Workforce Demographics": 5,
+    "Training, Development, and Human Capital Investment": 6
+  },
+  "id2label": {
+    "0": "Not related",
+    "1": "Diversity, Equity, and Inclusion",
+    "2": "Compensation and Benefits",
+    "3": "Labour Relations and Organisational Culture",
+    "4": "Health, Safety, and Well-being",
+    "5": "Workforce Demographics",
+    "6": "Training, Development, and Human Capital Investment"
+  }
+}

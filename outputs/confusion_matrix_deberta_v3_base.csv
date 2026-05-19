@@ -1,0 +1,8 @@
+﻿,pred_Not related,"pred_Diversity, Equity, and Inclusion",pred_Compensation and Benefits,pred_Labour Relations and Organisational Culture,"pred_Health, Safety, and Well-being",pred_Workforce Demographics,"pred_Training, Development, and Human Capital Investment"
+true_Not related,202,3,6,14,8,7,10
+"true_Diversity, Equity, and Inclusion",5,90,1,2,0,12,1
+true_Compensation and Benefits,2,2,188,5,0,2,1
+true_Labour Relations and Organisational Culture,22,2,3,148,6,6,13
+"true_Health, Safety, and Well-being",3,1,4,4,156,1,4
+true_Workforce Demographics,5,2,3,4,1,162,11
+"true_Training, Development, and Human Capital Investment",12,0,2,7,0,8,171

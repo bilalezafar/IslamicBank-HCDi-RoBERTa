@@ -1,0 +1,8 @@
+﻿model_label_id,classification,class_weight
+0,Not related,0.7552857142857143
+1,"Diversity, Equity, and Inclusion",1.7068603712671508
+2,Compensation and Benefits,0.9441071428571428
+3,Labour Relations and Organisational Culture,0.9441071428571428
+4,"Health, Safety, and Well-being",1.090665291387313
+5,Workforce Demographics,1.0043693009118542
+6,"Training, Development, and Human Capital Investment",0.9441071428571428
